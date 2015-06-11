@@ -19,7 +19,7 @@
 	String ip = "FSMS";
 	String CN = "";
 	int certCountForMobile = 0;
-	
+	//
 	Logger 	catLog = Logger.getLogger("queryCertCount.jsp");	
 	
 	pid = fnToUpperCase(pid);
